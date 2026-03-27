@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/game.png" width="100%" />
+  <img src="game.png" width="100%" />
 </p>
 
 # 🎮✨ TD_21 Game Python – Ultimate Truth or Dare Challenge ✨🎮
@@ -83,8 +83,7 @@
 ```
 TD_21_Game_python/
 │
-├── assets/
-│   └── game.png
+├── game.png
 ├── main.py
 ├── README.md
 ├── requirements.txt
